@@ -1,0 +1,5 @@
+model_checkpoint_path: "tf_ckpt-30"
+all_model_checkpoint_paths: "tf_ckpt-27"
+all_model_checkpoint_paths: "tf_ckpt-28"
+all_model_checkpoint_paths: "tf_ckpt-29"
+all_model_checkpoint_paths: "tf_ckpt-30"
